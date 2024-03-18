@@ -14,6 +14,11 @@ In the heart of Africa, the majestic rhinoceroses and elephants are under consta
 
 Objective: The primary objective of this project is to create a robust image classification system capable of identifying rhinoceroses and elephants from photographs and video footage. By accurately recognizing these animals in their natural habitat, wildlife conservationists and authorities can respond swiftly to any potential threats, such as poachers or natural disasters, and implement necessary protective measures.
 
+## Model Information
+
+- Tensorflow Keras CNN Model (For building from scratch)
+- Tensorflow Keras VGG-16 Model (For transfer learning)
+
 ## Model Outcome
 
 Below is the model that has been built from scratch. 
@@ -44,6 +49,10 @@ In the current digital era, social media platforms have emerged as a popular for
 - Enhancing Customer Satisfaction: United Airlines can raise overall customer satisfaction by proactively addressing problems discovered through sentiment research. Customers who are satisfied are more inclined to stick with a brand and recommend it to others.
 
 In conclusion, United Airlines' business can benefit greatly from sentiment analysis of tweets mentioning airlines. It offers practical insights that help improve client satisfaction, brand reputation, and competitiveness in a market that is continually changing. Airlines can keep aware of client sentiment, adjust to shifting tastes, and make data-driven decisions that are advantageous to both customers and the airline itself by utilizing sentiment analysis.
+
+## Model Information
+
+- Tensorflow Keras Sequential Model making use of LSTM
 
 ## Model Outcome
 
